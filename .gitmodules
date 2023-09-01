@@ -1765,3 +1765,156 @@
 [submodule "awesome/whisper"]
 	path = awesome/whisper
 	url = https://githubfast.com/sindresorhus/awesome-whisper
+[submodule "awesome/web-security"]
+	path = awesome/web-security
+	url = https://githubfast.com/qazbnm456/awesome-web-security
+[submodule "awesome/lockpicking"]
+	path = awesome/lockpicking
+	url = https://githubfast.com/fabacab/awesome-lockpicking
+[submodule "awesome/cybersecurity-blueteam"]
+	path = awesome/cybersecurity-blueteam
+	url = https://githubfast.com/fabacab/awesome-cybersecurity-blueteam
+[submodule "awesome/fuzzing"]
+	path = awesome/fuzzing
+	url = https://githubfast.com/cpuu/awesome-fuzzing
+[submodule "awesome/embedded-and-iot-security"]
+	path = awesome/embedded-and-iot-security
+	url = https://githubfast.com/fkie-cad/awesome-embedded-and-iot-security
+[submodule "awesome/gdpr"]
+	path = awesome/gdpr
+	url = https://githubfast.com/bakke92/awesome-gdpr
+[submodule "awesome/executable-packing"]
+	path = awesome/executable-packing
+	url = https://githubfast.com/dhondta/awesome-executable-packing
+[submodule "awesome/malware-persistence"]
+	path = awesome/malware-persistence
+	url = https://githubfast.com/Karneades/awesome-malware-persistence
+[submodule "awesome/evm-security"]
+	path = awesome/evm-security
+	url = https://githubfast.com/kareniel/awesome-evm-security
+[submodule "awesome/password-cracking"]
+	path = awesome/password-cracking
+	url = https://githubfast.com/n0kovo/awesome-password-cracking
+[submodule "awesome/security-card-games"]
+	path = awesome/security-card-games
+	url = https://githubfast.com/Karneades/awesome-security-card-games
+[submodule "awesome/suricata"]
+	path = awesome/suricata
+	url = https://githubfast.com/satta/awesome-suricata
+[submodule "awesome/umbraco"]
+	path = awesome/umbraco
+	url = https://githubfast.com/umbraco-community/awesome-umbraco
+[submodule "awesome/refinerycms"]
+	path = awesome/refinerycms
+	url = https://githubfast.com/refinerycms-contrib/awesome-refinerycms
+[submodule "awesome/wagtail"]
+	path = awesome/wagtail
+	url = https://githubfast.com/springload/awesome-wagtail
+[submodule "awesome/textpattern"]
+	path = awesome/textpattern
+	url = https://githubfast.com/drmonkeyninja/awesome-textpattern
+[submodule "awesome/drupal"]
+	path = awesome/drupal
+	url = https://githubfast.com/nirgn975/awesome-drupal
+[submodule "awesome/craftcms"]
+	path = awesome/craftcms
+	url = https://githubfast.com/craftcms/awesome
+[submodule "awesome/sitecore"]
+	path = awesome/sitecore
+	url = https://githubfast.com/MartinMiles/Awesome-Sitecore
+[submodule "awesome/silverstripe-cms"]
+	path = awesome/silverstripe-cms
+	url = https://githubfast.com/wernerkrauss/awesome-silverstripe-cms
+[submodule "awesome/directus"]
+	path = awesome/directus
+	url = https://githubfast.com/directus-community/awesome-directus
+[submodule "awesome/plone"]
+	path = awesome/plone
+	url = https://githubfast.com/collective/awesome-plone
+[submodule "awesome/robotics"]
+	path = awesome/robotics
+	url = https://githubfast.com/Kiloreux/awesome-robotics
+[submodule "awesome/iot"]
+	path = awesome/iot
+	url = https://githubfast.com/HQarroum/awesome-iot
+[submodule "awesome/electronics"]
+	path = awesome/electronics
+	url = https://githubfast.com/kitspace/awesome-electronics
+[submodule "awesome/beacon"]
+	path = awesome/beacon
+	url = https://githubfast.com/rabschi/awesome-beacon
+[submodule "awesome/guitarspecs"]
+	path = awesome/guitarspecs
+	url = https://githubfast.com/gitfrage/guitarspecs
+[submodule "awesome/plotters"]
+	path = awesome/plotters
+	url = https://githubfast.com/beardicus/awesome-plotters
+[submodule "awesome/robotic-tooling"]
+	path = awesome/robotic-tooling
+	url = https://githubfast.com/protontypes/awesome-robotic-tooling
+[submodule "awesome/lidar"]
+	path = awesome/lidar
+	url = https://githubfast.com/szenergy/awesome-lidar
+[submodule "awesome/creative-tech-events"]
+	path = awesome/creative-tech-events
+	url = https://githubfast.com/danvoyce/awesome-creative-tech-events
+[submodule "awesome/italy-events"]
+	path = awesome/italy-events
+	url = https://githubfast.com/ildoc/awesome-italy-events
+[submodule "awesome/netherlands-events"]
+	path = awesome/netherlands-events
+	url = https://githubfast.com/awkward/awesome-netherlands-events
+[submodule "awesome/testing"]
+	path = awesome/testing
+	url = https://githubfast.com/TheJambo/awesome-testing
+[submodule "awesome/regression-testing"]
+	path = awesome/regression-testing
+	url = https://githubfast.com/mojoaxel/awesome-regression-testing
+[submodule "awesome/selenium"]
+	path = awesome/selenium
+	url = https://githubfast.com/christian-bromann/awesome-selenium
+[submodule "awesome/appium"]
+	path = awesome/appium
+	url = https://githubfast.com/SrinivasanTarget/awesome-appium
+[submodule "awesome/tap"]
+	path = awesome/tap
+	url = https://githubfast.com/sindresorhus/awesome-tap
+[submodule "awesome/jmeter"]
+	path = awesome/jmeter
+	url = https://githubfast.com/aliesbelik/awesome-jmeter
+[submodule "awesome/k6"]
+	path = awesome/k6
+	url = https://githubfast.com/grafana/awesome-k6
+[submodule "awesome/playwright"]
+	path = awesome/playwright
+	url = https://githubfast.com/mxschmitt/awesome-playwright
+[submodule "awesome/quality-assurance-roadmap"]
+	path = awesome/quality-assurance-roadmap
+	url = https://githubfast.com/fityanos/awesome-quality-assurance-roadmap
+[submodule "awesome/gatling"]
+	path = awesome/gatling
+	url = https://githubfast.com/aliesbelik/awesome-gatling
+[submodule "awesome/scientific-writing"]
+	path = awesome/scientific-writing
+	url = https://githubfast.com/writing-resources/awesome-scientific-writing
+[submodule "awesome/json"]
+	path = awesome/json
+	url = https://githubfast.com/burningtree/awesome-json
+[submodule "awesome/geojson"]
+	path = awesome/geojson
+	url = https://githubfast.com/tmcw/awesome-geojson
+[submodule "awesome/json-datasets"]
+	path = awesome/json-datasets
+	url = https://githubfast.com/jdorfman/awesome-json-datasets
+[submodule "awesome/awesomecsv"]
+	path = awesome/awesomecsv
+	url = https://githubfast.com/secretGeek/awesomeCSV
+[submodule "awesome/discount-for-student-dev"]
+	path = awesome/discount-for-student-dev
+	url = https://githubfast.com/AchoArnold/discount-for-student-dev
+[submodule "awesome/stumbleuponawesome"]
+	path = awesome/stumbleuponawesome
+	url = https://githubfast.com/basharovV/StumbleUponAwesome
+[submodule "awesome/cli"]
+	path = awesome/cli
+	url = https://githubfast.com/umutphp/awesome-cli
