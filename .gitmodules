@@ -1,0 +1,1767 @@
+[submodule "awesome/nodejs"]
+	path = awesome/nodejs
+	url = https://githubfast.com/sindresorhus/awesome-nodejs
+[submodule "awesome/cross-platform-nodejs"]
+	path = awesome/cross-platform-nodejs
+	url = https://githubfast.com/bcoe/awesome-cross-platform-nodejs
+[submodule "awesome/frontend-dev-bookmarks"]
+	path = awesome/frontend-dev-bookmarks
+	url = https://githubfast.com/dypsilon/frontend-dev-bookmarks
+[submodule "awesome/ios"]
+	path = awesome/ios
+	url = https://githubfast.com/vsouza/awesome-ios
+[submodule "awesome/android"]
+	path = awesome/android
+	url = https://githubfast.com/JStumpp/awesome-android
+[submodule "awesome/iot-hybrid"]
+	path = awesome/iot-hybrid
+	url = https://githubfast.com/weblancaster/awesome-IoT-hybrid
+[submodule "awesome/electron"]
+	path = awesome/electron
+	url = https://githubfast.com/sindresorhus/awesome-electron
+[submodule "awesome/cordova"]
+	path = awesome/cordova
+	url = https://githubfast.com/busterc/awesome-cordova
+[submodule "awesome/react-native"]
+	path = awesome/react-native
+	url = https://githubfast.com/jondot/awesome-react-native
+[submodule "awesome/xamarin"]
+	path = awesome/xamarin
+	url = https://githubfast.com/XamSome/awesome-xamarin
+[submodule "awesome/linux"]
+	path = awesome/linux
+	url = https://githubfast.com/inputsh/awesome-linux
+[submodule "awesome/linux-containers"]
+	path = awesome/linux-containers
+	url = https://githubfast.com/Friz-zy/awesome-linux-containers
+[submodule "awesome/ebpf"]
+	path = awesome/ebpf
+	url = https://githubfast.com/zoidbergwill/awesome-ebpf
+[submodule "awesome/arch"]
+	path = awesome/arch
+	url = https://githubfast.com/PandaFoss/Awesome-Arch
+[submodule "awesome/appimage"]
+	path = awesome/appimage
+	url = https://githubfast.com/AppImage/awesome-appimage
+[submodule "awesome/macos-screensavers"]
+	path = awesome/macos-screensavers
+	url = https://githubfast.com/agarrharr/awesome-macos-screensavers
+[submodule "awesome/mac"]
+	path = awesome/mac
+	url = https://githubfast.com/jaywcjlove/awesome-mac
+[submodule "awesome/open-source-mac-os-apps"]
+	path = awesome/open-source-mac-os-apps
+	url = https://githubfast.com/serhii-londar/open-source-mac-os-apps
+[submodule "awesome/watchos"]
+	path = awesome/watchos
+	url = https://githubfast.com/yenchenlin/awesome-watchos
+[submodule "awesome/jvm"]
+	path = awesome/jvm
+	url = https://githubfast.com/deephacks/awesome-jvm
+[submodule "awesome/salesforce"]
+	path = awesome/salesforce
+	url = https://githubfast.com/mailtoharshit/awesome-salesforce
+[submodule "awesome/aws"]
+	path = awesome/aws
+	url = https://githubfast.com/donnemartin/awesome-aws
+[submodule "awesome/awesome-windows"]
+	path = awesome/awesome-windows
+	url = https://githubfast.com/Awesome-Windows/Awesome
+[submodule "awesome/ipfs"]
+	path = awesome/ipfs
+	url = https://githubfast.com/ipfs/awesome-ipfs
+[submodule "awesome/fuse"]
+	path = awesome/fuse
+	url = https://githubfast.com/fuse-compound/awesome-fuse
+[submodule "awesome/heroku"]
+	path = awesome/heroku
+	url = https://githubfast.com/ianstormtaylor/awesome-heroku
+[submodule "awesome/raspberry-pi"]
+	path = awesome/raspberry-pi
+	url = https://githubfast.com/thibmaek/awesome-raspberry-pi
+[submodule "awesome/qt"]
+	path = awesome/qt
+	url = https://githubfast.com/JesseTG/awesome-qt
+[submodule "awesome/webextensions"]
+	path = awesome/webextensions
+	url = https://githubfast.com/fregante/Awesome-WebExtensions
+[submodule "awesome/smart-tv"]
+	path = awesome/smart-tv
+	url = https://githubfast.com/vitalets/awesome-smart-tv
+[submodule "awesome/gnome"]
+	path = awesome/gnome
+	url = https://githubfast.com/Kazhnuz/awesome-gnome
+[submodule "awesome/kde"]
+	path = awesome/kde
+	url = https://githubfast.com/francoism90/awesome-kde
+[submodule "awesome/dotnet"]
+	path = awesome/dotnet
+	url = https://githubfast.com/quozd/awesome-dotnet
+[submodule "awesome/dotnet-core"]
+	path = awesome/dotnet-core
+	url = https://githubfast.com/thangchung/awesome-dotnet-core
+[submodule "awesome/roslyn"]
+	path = awesome/roslyn
+	url = https://githubfast.com/ironcev/awesome-roslyn
+[submodule "awesome/amazon-alexa"]
+	path = awesome/amazon-alexa
+	url = https://githubfast.com/miguelmota/awesome-amazon-alexa
+[submodule "awesome/digitalocean"]
+	path = awesome/digitalocean
+	url = https://githubfast.com/jonleibowitz/awesome-digitalocean
+[submodule "awesome/flutter"]
+	path = awesome/flutter
+	url = https://githubfast.com/Solido/awesome-flutter
+[submodule "awesome/home-assistant"]
+	path = awesome/home-assistant
+	url = https://githubfast.com/frenck/awesome-home-assistant
+[submodule "awesome/ibmcloud"]
+	path = awesome/ibmcloud
+	url = https://githubfast.com/victorshinya/awesome-ibmcloud
+[submodule "awesome/firebase"]
+	path = awesome/firebase
+	url = https://githubfast.com/jthegedus/awesome-firebase
+[submodule "awesome/ros2"]
+	path = awesome/ros2
+	url = https://githubfast.com/fkromer/awesome-ros2
+[submodule "awesome/adafruitio"]
+	path = awesome/adafruitio
+	url = https://githubfast.com/adafruit/awesome-adafruitio
+[submodule "awesome/cloudflare"]
+	path = awesome/cloudflare
+	url = https://githubfast.com/irazasyed/awesome-cloudflare
+[submodule "awesome/actions-on-google"]
+	path = awesome/actions-on-google
+	url = https://githubfast.com/ravirupareliya/awesome-actions-on-google
+[submodule "awesome/esp"]
+	path = awesome/esp
+	url = https://githubfast.com/agucova/awesome-esp
+[submodule "awesome/deno"]
+	path = awesome/deno
+	url = https://githubfast.com/denolib/awesome-deno
+[submodule "awesome/dos"]
+	path = awesome/dos
+	url = https://githubfast.com/balintkissdev/awesome-dos
+[submodule "awesome/nix"]
+	path = awesome/nix
+	url = https://githubfast.com/nix-community/awesome-nix
+[submodule "awesome/nodered"]
+	path = awesome/nodered
+	url = https://githubfast.com/naimo84/awesome-nodered
+[submodule "awesome/low-code"]
+	path = awesome/low-code
+	url = https://githubfast.com/zenitysec/awesome-low-code
+[submodule "awesome/capacitor"]
+	path = awesome/capacitor
+	url = https://githubfast.com/riderx/awesome-capacitor
+[submodule "awesome/arcgis-developer"]
+	path = awesome/arcgis-developer
+	url = https://githubfast.com/Esri/awesome-arcgis-developer
+[submodule "awesome/javascript"]
+	path = awesome/javascript
+	url = https://githubfast.com/sorrycc/awesome-javascript
+[submodule "awesome/promises"]
+	path = awesome/promises
+	url = https://githubfast.com/wbinnssmith/awesome-promises
+[submodule "awesome/standard"]
+	path = awesome/standard
+	url = https://githubfast.com/standard/awesome-standard
+[submodule "awesome/js-must-watch"]
+	path = awesome/js-must-watch
+	url = https://githubfast.com/bolshchikov/js-must-watch
+[submodule "awesome/jstips"]
+	path = awesome/jstips
+	url = https://githubfast.com/loverajoel/jstips
+[submodule "awesome/network-js"]
+	path = awesome/network-js
+	url = https://githubfast.com/Kikobeats/awesome-network-js
+[submodule "awesome/micro-npm-packages"]
+	path = awesome/micro-npm-packages
+	url = https://githubfast.com/parro-it/awesome-micro-npm-packages
+[submodule "awesome/mad-science"]
+	path = awesome/mad-science
+	url = https://githubfast.com/feross/awesome-mad-science
+[submodule "awesome/maintenance-modules"]
+	path = awesome/maintenance-modules
+	url = https://githubfast.com/maxogden/maintenance-modules
+[submodule "awesome/npm"]
+	path = awesome/npm
+	url = https://githubfast.com/sindresorhus/awesome-npm
+[submodule "awesome/ava"]
+	path = awesome/ava
+	url = https://githubfast.com/avajs/awesome-ava
+[submodule "awesome/eslint"]
+	path = awesome/eslint
+	url = https://githubfast.com/dustinspecker/awesome-eslint
+[submodule "awesome/fp-js"]
+	path = awesome/fp-js
+	url = https://githubfast.com/stoeffel/awesome-fp-js
+[submodule "awesome/observables"]
+	path = awesome/observables
+	url = https://githubfast.com/sindresorhus/awesome-observables
+[submodule "awesome/npm-scripts"]
+	path = awesome/npm-scripts
+	url = https://githubfast.com/RyanZim/awesome-npm-scripts
+[submodule "awesome/30-seconds-of-code"]
+	path = awesome/30-seconds-of-code
+	url = https://githubfast.com/30-seconds/30-seconds-of-code
+[submodule "awesome/ponyfills"]
+	path = awesome/ponyfills
+	url = https://githubfast.com/Richienb/awesome-ponyfills
+[submodule "awesome/swift"]
+	path = awesome/swift
+	url = https://githubfast.com/matteocrippa/awesome-swift
+[submodule "awesome/swift-education"]
+	path = awesome/swift-education
+	url = https://githubfast.com/hsavit1/Awesome-Swift-Education
+[submodule "awesome/swift-playgrounds"]
+	path = awesome/swift-playgrounds
+	url = https://githubfast.com/uraimo/Awesome-Swift-Playgrounds
+[submodule "awesome/python"]
+	path = awesome/python
+	url = https://githubfast.com/vinta/awesome-python
+[submodule "awesome/asyncio"]
+	path = awesome/asyncio
+	url = https://githubfast.com/timofurrer/awesome-asyncio
+[submodule "awesome/python-scientific-audio"]
+	path = awesome/python-scientific-audio
+	url = https://githubfast.com/faroit/awesome-python-scientific-audio
+[submodule "awesome/circuitpython"]
+	path = awesome/circuitpython
+	url = https://githubfast.com/adafruit/awesome-circuitpython
+[submodule "awesome/go"]
+	path = awesome/go
+	url = https://githubfast.com/avelino/awesome-go
+[submodule "awesome/scala"]
+	path = awesome/scala
+	url = https://githubfast.com/lauris/awesome-scala
+[submodule "awesome/scala-native"]
+	path = awesome/scala-native
+	url = https://githubfast.com/tindzk/awesome-scala-native
+[submodule "awesome/ruby"]
+	path = awesome/ruby
+	url = https://githubfast.com/markets/awesome-ruby
+[submodule "awesome/clojure"]
+	path = awesome/clojure
+	url = https://githubfast.com/razum2um/awesome-clojure
+[submodule "awesome/clojurescript"]
+	path = awesome/clojurescript
+	url = https://githubfast.com/hantuzun/awesome-clojurescript
+[submodule "awesome/elixir"]
+	path = awesome/elixir
+	url = https://githubfast.com/h4cc/awesome-elixir
+[submodule "awesome/elm"]
+	path = awesome/elm
+	url = https://githubfast.com/sporto/awesome-elm
+[submodule "awesome/r"]
+	path = awesome/r
+	url = https://githubfast.com/qinwf/awesome-R
+[submodule "awesome/r-learning-resources"]
+	path = awesome/r-learning-resources
+	url = https://githubfast.com/iamericfletcher/awesome-r-learning-resources
+[submodule "awesome/d"]
+	path = awesome/d
+	url = https://githubfast.com/dlang-community/awesome-d
+[submodule "awesome/cl"]
+	path = awesome/cl
+	url = https://githubfast.com/CodyReichert/awesome-cl
+[submodule "awesome/common-lisp-learning"]
+	path = awesome/common-lisp-learning
+	url = https://githubfast.com/GustavBertram/awesome-common-lisp-learning
+[submodule "awesome/perl"]
+	path = awesome/perl
+	url = https://githubfast.com/hachiojipm/awesome-perl
+[submodule "awesome/groovy"]
+	path = awesome/groovy
+	url = https://githubfast.com/kdabir/awesome-groovy
+[submodule "awesome/dart"]
+	path = awesome/dart
+	url = https://githubfast.com/yissachar/awesome-dart
+[submodule "awesome/java"]
+	path = awesome/java
+	url = https://githubfast.com/akullpp/awesome-java
+[submodule "awesome/rxjava"]
+	path = awesome/rxjava
+	url = https://githubfast.com/eleventigers/awesome-rxjava
+[submodule "awesome/kotlin"]
+	path = awesome/kotlin
+	url = https://githubfast.com/KotlinBy/awesome-kotlin
+[submodule "awesome/ocaml"]
+	path = awesome/ocaml
+	url = https://githubfast.com/ocaml-community/awesome-ocaml
+[submodule "awesome/coldfusion"]
+	path = awesome/coldfusion
+	url = https://githubfast.com/seancoyne/awesome-coldfusion
+[submodule "awesome/fortran"]
+	path = awesome/fortran
+	url = https://githubfast.com/rabbiabram/awesome-fortran
+[submodule "awesome/php"]
+	path = awesome/php
+	url = https://githubfast.com/ziadoz/awesome-php
+[submodule "awesome/composer"]
+	path = awesome/composer
+	url = https://githubfast.com/jakoch/awesome-composer
+[submodule "awesome/pascal"]
+	path = awesome/pascal
+	url = https://githubfast.com/Fr0sT-Brutal/awesome-pascal
+[submodule "awesome/autohotkey"]
+	path = awesome/autohotkey
+	url = https://githubfast.com/ahkscript/awesome-AutoHotkey
+[submodule "awesome/autoit"]
+	path = awesome/autoit
+	url = https://githubfast.com/J2TeaM/awesome-AutoIt
+[submodule "awesome/crystal"]
+	path = awesome/crystal
+	url = https://githubfast.com/veelenga/awesome-crystal
+[submodule "awesome/frege"]
+	path = awesome/frege
+	url = https://githubfast.com/sfischer13/awesome-frege
+[submodule "awesome/cmake"]
+	path = awesome/cmake
+	url = https://githubfast.com/onqtam/awesome-cmake
+[submodule "awesome/actionscript3"]
+	path = awesome/actionscript3
+	url = https://githubfast.com/robinrodricks/awesome-actionscript3
+[submodule "awesome/eta"]
+	path = awesome/eta
+	url = https://githubfast.com/sfischer13/awesome-eta
+[submodule "awesome/idris"]
+	path = awesome/idris
+	url = https://githubfast.com/joaomilho/awesome-idris
+[submodule "awesome/ada"]
+	path = awesome/ada
+	url = https://githubfast.com/ohenley/awesome-ada
+[submodule "awesome/qsharp"]
+	path = awesome/qsharp
+	url = https://githubfast.com/ebraminio/awesome-qsharp
+[submodule "awesome/imba"]
+	path = awesome/imba
+	url = https://githubfast.com/koolamusic/awesome-imba
+[submodule "awesome/vala"]
+	path = awesome/vala
+	url = https://githubfast.com/desiderantes/awesome-vala
+[submodule "awesome/coq"]
+	path = awesome/coq
+	url = https://githubfast.com/coq-community/awesome-coq
+[submodule "awesome/v"]
+	path = awesome/v
+	url = https://githubfast.com/vlang/awesome-v
+[submodule "awesome/zig"]
+	path = awesome/zig
+	url = https://githubfast.com/catdevnull/awesome-zig
+[submodule "awesome/move"]
+	path = awesome/move
+	url = https://githubfast.com/MystenLabs/awesome-move
+[submodule "awesome/es6-tools"]
+	path = awesome/es6-tools
+	url = https://githubfast.com/addyosmani/es6-tools
+[submodule "awesome/wpo"]
+	path = awesome/wpo
+	url = https://githubfast.com/davidsonfellipe/awesome-wpo
+[submodule "awesome/tools"]
+	path = awesome/tools
+	url = https://githubfast.com/lvwzhen/tools
+[submodule "awesome/css"]
+	path = awesome/css
+	url = https://githubfast.com/awesome-css-group/awesome-css
+[submodule "awesome/critical-path-css-tools"]
+	path = awesome/critical-path-css-tools
+	url = https://githubfast.com/addyosmani/critical-path-css-tools
+[submodule "awesome/scalable-css-reading-list"]
+	path = awesome/scalable-css-reading-list
+	url = https://githubfast.com/davidtheclark/scalable-css-reading-list
+[submodule "awesome/must-watch-css"]
+	path = awesome/must-watch-css
+	url = https://githubfast.com/AllThingsSmitty/must-watch-css
+[submodule "awesome/css-protips"]
+	path = awesome/css-protips
+	url = https://githubfast.com/AllThingsSmitty/css-protips
+[submodule "awesome/css-frameworks"]
+	path = awesome/css-frameworks
+	url = https://githubfast.com/troxler/awesome-css-frameworks
+[submodule "awesome/react"]
+	path = awesome/react
+	url = https://githubfast.com/enaqx/awesome-react
+[submodule "awesome/relay"]
+	path = awesome/relay
+	url = https://githubfast.com/expede/awesome-relay
+[submodule "awesome/react-hooks"]
+	path = awesome/react-hooks
+	url = https://githubfast.com/glauberfc/awesome-react-hooks
+[submodule "awesome/web-components"]
+	path = awesome/web-components
+	url = https://githubfast.com/web-padawan/awesome-web-components
+[submodule "awesome/polymer"]
+	path = awesome/polymer
+	url = https://githubfast.com/Granze/awesome-polymer
+[submodule "awesome/angular"]
+	path = awesome/angular
+	url = https://githubfast.com/PatrickJS/awesome-angular
+[submodule "awesome/backbone"]
+	path = awesome/backbone
+	url = https://githubfast.com/sadcitizen/awesome-backbone
+[submodule "awesome/html5"]
+	path = awesome/html5
+	url = https://githubfast.com/diegocard/awesome-html5
+[submodule "awesome/svg"]
+	path = awesome/svg
+	url = https://githubfast.com/willianjusten/awesome-svg
+[submodule "awesome/canvas"]
+	path = awesome/canvas
+	url = https://githubfast.com/raphamorim/awesome-canvas
+[submodule "awesome/knockout"]
+	path = awesome/knockout
+	url = https://githubfast.com/dnbard/awesome-knockout
+[submodule "awesome/dojo"]
+	path = awesome/dojo
+	url = https://githubfast.com/petk/awesome-dojo
+[submodule "awesome/inspire"]
+	path = awesome/inspire
+	url = https://githubfast.com/NoahBuscher/Inspire
+[submodule "awesome/ember"]
+	path = awesome/ember
+	url = https://githubfast.com/ember-community-russia/awesome-ember
+[submodule "awesome/android-ui"]
+	path = awesome/android-ui
+	url = https://githubfast.com/wasabeef/awesome-android-ui
+[submodule "awesome/ios-ui"]
+	path = awesome/ios-ui
+	url = https://githubfast.com/cjwirth/awesome-ios-ui
+[submodule "awesome/meteor"]
+	path = awesome/meteor
+	url = https://githubfast.com/Urigo/awesome-meteor
+[submodule "awesome/bem-resources"]
+	path = awesome/bem-resources
+	url = https://githubfast.com/sturobson/BEM-resources
+[submodule "awesome/flexbox"]
+	path = awesome/flexbox
+	url = https://githubfast.com/afonsopacifer/awesome-flexbox
+[submodule "awesome/typography"]
+	path = awesome/typography
+	url = https://githubfast.com/deanhume/typography
+[submodule "awesome/a11y"]
+	path = awesome/a11y
+	url = https://githubfast.com/brunopulis/awesome-a11y
+[submodule "awesome/material"]
+	path = awesome/material
+	url = https://githubfast.com/sachin1092/awesome-material
+[submodule "awesome/d3"]
+	path = awesome/d3
+	url = https://githubfast.com/wbkd/awesome-d3
+[submodule "awesome/emails"]
+	path = awesome/emails
+	url = https://githubfast.com/jonathandion/awesome-emails
+[submodule "awesome/jquery"]
+	path = awesome/jquery
+	url = https://githubfast.com/petk/awesome-jquery
+[submodule "awesome/jquery-tips-everyone-should-know"]
+	path = awesome/jquery-tips-everyone-should-know
+	url = https://githubfast.com/AllThingsSmitty/jquery-tips-everyone-should-know
+[submodule "awesome/webaudio"]
+	path = awesome/webaudio
+	url = https://githubfast.com/notthetup/awesome-webaudio
+[submodule "awesome/offline-first"]
+	path = awesome/offline-first
+	url = https://githubfast.com/pazguille/offline-first
+[submodule "awesome/static-website-services"]
+	path = awesome/static-website-services
+	url = https://githubfast.com/agarrharr/awesome-static-website-services
+[submodule "awesome/cyclejs"]
+	path = awesome/cyclejs
+	url = https://githubfast.com/cyclejs-community/awesome-cyclejs
+[submodule "awesome/text-editing"]
+	path = awesome/text-editing
+	url = https://githubfast.com/dok/awesome-text-editing
+[submodule "awesome/motion-ui-design"]
+	path = awesome/motion-ui-design
+	url = https://githubfast.com/fliptheweb/motion-ui-design
+[submodule "awesome/vue"]
+	path = awesome/vue
+	url = https://githubfast.com/vuejs/awesome-vue
+[submodule "awesome/marionette"]
+	path = awesome/marionette
+	url = https://githubfast.com/sadcitizen/awesome-marionette
+[submodule "awesome/aurelia"]
+	path = awesome/aurelia
+	url = https://githubfast.com/aurelia-contrib/awesome-aurelia
+[submodule "awesome/charting"]
+	path = awesome/charting
+	url = https://githubfast.com/zingchart/awesome-charting
+[submodule "awesome/ionic"]
+	path = awesome/ionic
+	url = https://githubfast.com/candelibas/awesome-ionic
+[submodule "awesome/chrome-devtools"]
+	path = awesome/chrome-devtools
+	url = https://githubfast.com/ChromeDevTools/awesome-chrome-devtools
+[submodule "awesome/postcss"]
+	path = awesome/postcss
+	url = https://githubfast.com/jdrgomes/awesome-postcss
+[submodule "awesome/draft-js"]
+	path = awesome/draft-js
+	url = https://githubfast.com/nikgraf/awesome-draft-js
+[submodule "awesome/service-workers"]
+	path = awesome/service-workers
+	url = https://githubfast.com/TalAter/awesome-service-workers
+[submodule "awesome/progressive-web-apps"]
+	path = awesome/progressive-web-apps
+	url = https://githubfast.com/TalAter/awesome-progressive-web-apps
+[submodule "awesome/choo"]
+	path = awesome/choo
+	url = https://githubfast.com/choojs/awesome-choo
+[submodule "awesome/redux"]
+	path = awesome/redux
+	url = https://githubfast.com/brillout/awesome-redux
+[submodule "awesome/browserify"]
+	path = awesome/browserify
+	url = https://githubfast.com/browserify/awesome-browserify
+[submodule "awesome/sass"]
+	path = awesome/sass
+	url = https://githubfast.com/Famolus/awesome-sass
+[submodule "awesome/ant-design"]
+	path = awesome/ant-design
+	url = https://githubfast.com/websemantics/awesome-ant-design
+[submodule "awesome/less"]
+	path = awesome/less
+	url = https://githubfast.com/LucasBassetti/awesome-less
+[submodule "awesome/webgl"]
+	path = awesome/webgl
+	url = https://githubfast.com/sjfricke/awesome-webgl
+[submodule "awesome/preact"]
+	path = awesome/preact
+	url = https://githubfast.com/preactjs/awesome-preact
+[submodule "awesome/progressive-enhancement-resources"]
+	path = awesome/progressive-enhancement-resources
+	url = https://githubfast.com/jbmoelker/progressive-enhancement-resources
+[submodule "awesome/nextjs"]
+	path = awesome/nextjs
+	url = https://githubfast.com/unicodeveloper/awesome-nextjs
+[submodule "awesome/lit"]
+	path = awesome/lit
+	url = https://githubfast.com/web-padawan/awesome-lit
+[submodule "awesome/jamstack"]
+	path = awesome/jamstack
+	url = https://githubfast.com/automata/awesome-jamstack
+[submodule "awesome/wordpress-gatsby"]
+	path = awesome/wordpress-gatsby
+	url = https://githubfast.com/henrikwirth/awesome-wordpress-gatsby
+[submodule "awesome/mobile-web-development"]
+	path = awesome/mobile-web-development
+	url = https://githubfast.com/myshov/awesome-mobile-web-development
+[submodule "awesome/storybook"]
+	path = awesome/storybook
+	url = https://githubfast.com/lauthieb/awesome-storybook
+[submodule "awesome/blazor"]
+	path = awesome/blazor
+	url = https://githubfast.com/AdrienTorris/awesome-blazor
+[submodule "awesome/pagespeed-metrics"]
+	path = awesome/pagespeed-metrics
+	url = https://githubfast.com/csabapalfi/awesome-pagespeed-metrics
+[submodule "awesome/tailwindcss"]
+	path = awesome/tailwindcss
+	url = https://githubfast.com/aniftyco/awesome-tailwindcss
+[submodule "awesome/seed-rs"]
+	path = awesome/seed-rs
+	url = https://githubfast.com/seed-rs/awesome-seed-rs
+[submodule "awesome/web-performance-budget"]
+	path = awesome/web-performance-budget
+	url = https://githubfast.com/pajaydev/awesome-web-performance-budget
+[submodule "awesome/web-animation"]
+	path = awesome/web-animation
+	url = https://githubfast.com/sergey-pimenov/awesome-web-animation
+[submodule "awesome/yew"]
+	path = awesome/yew
+	url = https://githubfast.com/jetli/awesome-yew
+[submodule "awesome/material-ui"]
+	path = awesome/material-ui
+	url = https://githubfast.com/nadunindunil/awesome-material-ui
+[submodule "awesome/building-blocks-for-web-apps"]
+	path = awesome/building-blocks-for-web-apps
+	url = https://githubfast.com/componently-com/awesome-building-blocks-for-web-apps
+[submodule "awesome/svelte"]
+	path = awesome/svelte
+	url = https://githubfast.com/TheComputerM/awesome-svelte
+[submodule "awesome/design-systems"]
+	path = awesome/design-systems
+	url = https://githubfast.com/klaufel/awesome-design-systems
+[submodule "awesome/inertiajs"]
+	path = awesome/inertiajs
+	url = https://githubfast.com/innocenzi/awesome-inertiajs
+[submodule "awesome/mdbootstrap"]
+	path = awesome/mdbootstrap
+	url = https://githubfast.com/mdbootstrap/awesome-mdbootstrap
+[submodule "awesome/master-css"]
+	path = awesome/master-css
+	url = https://githubfast.com/master-co/awesome-master-css
+[submodule "awesome/hydrogen"]
+	path = awesome/hydrogen
+	url = https://githubfast.com/shopify/awesome-hydrogen
+[submodule "awesome/tiny-js"]
+	path = awesome/tiny-js
+	url = https://githubfast.com/thoughtspile/awesome-tiny-js
+[submodule "awesome/flask"]
+	path = awesome/flask
+	url = https://githubfast.com/mjhea0/awesome-flask
+[submodule "awesome/docker"]
+	path = awesome/docker
+	url = https://githubfast.com/veggiemonk/awesome-docker
+[submodule "awesome/vagrant"]
+	path = awesome/vagrant
+	url = https://githubfast.com/iJackUA/awesome-vagrant
+[submodule "awesome/pyramid"]
+	path = awesome/pyramid
+	url = https://githubfast.com/uralbash/awesome-pyramid
+[submodule "awesome/play1"]
+	path = awesome/play1
+	url = https://githubfast.com/PerfectCarl/awesome-play1
+[submodule "awesome/cakephp"]
+	path = awesome/cakephp
+	url = https://githubfast.com/friendsofcake/awesome-cakephp
+[submodule "awesome/symfony"]
+	path = awesome/symfony
+	url = https://githubfast.com/sitepoint-editors/awesome-symfony
+[submodule "awesome/symfony-education"]
+	path = awesome/symfony-education
+	url = https://githubfast.com/pehapkari/awesome-symfony-education
+[submodule "awesome/laravel"]
+	path = awesome/laravel
+	url = https://githubfast.com/chiraggude/awesome-laravel
+[submodule "awesome/laravel-education"]
+	path = awesome/laravel-education
+	url = https://githubfast.com/fukuball/Awesome-Laravel-Education
+[submodule "awesome/tall-stack"]
+	path = awesome/tall-stack
+	url = https://githubfast.com/livewire/awesome-tall-stack
+[submodule "awesome/rails"]
+	path = awesome/rails
+	url = https://githubfast.com/gramantin/awesome-rails
+[submodule "awesome/rails-gem"]
+	path = awesome/rails-gem
+	url = https://githubfast.com/hothero/awesome-rails-gem
+[submodule "awesome/phalcon"]
+	path = awesome/phalcon
+	url = https://githubfast.com/phalcon/awesome-phalcon
+[submodule "awesome/htaccess"]
+	path = awesome/htaccess
+	url = https://githubfast.com/phanan/htaccess
+[submodule "awesome/nginx-resources"]
+	path = awesome/nginx-resources
+	url = https://githubfast.com/fcambus/nginx-resources
+[submodule "awesome/dropwizard"]
+	path = awesome/dropwizard
+	url = https://githubfast.com/stve/awesome-dropwizard
+[submodule "awesome/kubernetes"]
+	path = awesome/kubernetes
+	url = https://githubfast.com/ramitsurana/awesome-kubernetes
+[submodule "awesome/lumen"]
+	path = awesome/lumen
+	url = https://githubfast.com/unicodeveloper/awesome-lumen
+[submodule "awesome/serverless"]
+	path = awesome/serverless
+	url = https://githubfast.com/pmuens/awesome-serverless
+[submodule "awesome/wicket"]
+	path = awesome/wicket
+	url = https://githubfast.com/PhantomYdn/awesome-wicket
+[submodule "awesome/vertx-awesome"]
+	path = awesome/vertx-awesome
+	url = https://githubfast.com/vert-x3/vertx-awesome
+[submodule "awesome/terraform"]
+	path = awesome/terraform
+	url = https://githubfast.com/shuaibiyy/awesome-terraform
+[submodule "awesome/vapor"]
+	path = awesome/vapor
+	url = https://githubfast.com/vapor-community/awesome-vapor
+[submodule "awesome/dash"]
+	path = awesome/dash
+	url = https://githubfast.com/ucg8j/awesome-dash
+[submodule "awesome/fastapi"]
+	path = awesome/fastapi
+	url = https://githubfast.com/mjhea0/awesome-fastapi
+[submodule "awesome/cdk"]
+	path = awesome/cdk
+	url = https://githubfast.com/kolomied/awesome-cdk
+[submodule "awesome/iam"]
+	path = awesome/iam
+	url = https://githubfast.com/kdeldycke/awesome-iam
+[submodule "awesome/slim"]
+	path = awesome/slim
+	url = https://githubfast.com/nekofar/awesome-slim
+[submodule "awesome/fiber"]
+	path = awesome/fiber
+	url = https://githubfast.com/gofiber/awesome-fiber
+[submodule "awesome/courses"]
+	path = awesome/courses
+	url = https://githubfast.com/prakhar1989/awesome-courses
+[submodule "awesome/datascience"]
+	path = awesome/datascience
+	url = https://githubfast.com/academic/awesome-datascience
+[submodule "awesome/learn-datascience"]
+	path = awesome/learn-datascience
+	url = https://githubfast.com/siboehm/awesome-learn-datascience
+[submodule "awesome/machine-learning"]
+	path = awesome/machine-learning
+	url = https://githubfast.com/josephmisiti/awesome-machine-learning
+[submodule "awesome/machine-learning-tutorials"]
+	path = awesome/machine-learning-tutorials
+	url = https://githubfast.com/ujjwalkarn/Machine-Learning-Tutorials
+[submodule "awesome/machine-learning-with-ruby"]
+	path = awesome/machine-learning-with-ruby
+	url = https://githubfast.com/arbox/machine-learning-with-ruby
+[submodule "awesome/coreml-models"]
+	path = awesome/coreml-models
+	url = https://githubfast.com/likedan/Awesome-CoreML-Models
+[submodule "awesome/h2o"]
+	path = awesome/h2o
+	url = https://githubfast.com/h2oai/awesome-h2o
+[submodule "awesome/seml"]
+	path = awesome/seml
+	url = https://githubfast.com/SE-ML/awesome-seml
+[submodule "awesome/ai-in-finance"]
+	path = awesome/ai-in-finance
+	url = https://githubfast.com/georgezouq/awesome-ai-in-finance
+[submodule "awesome/jax"]
+	path = awesome/jax
+	url = https://githubfast.com/n2cholas/awesome-jax
+[submodule "awesome/xai"]
+	path = awesome/xai
+	url = https://githubfast.com/altamiracorp/awesome-xai
+[submodule "awesome/speech-language-processing"]
+	path = awesome/speech-language-processing
+	url = https://githubfast.com/edobashira/speech-language-processing
+[submodule "awesome/spanish-nlp"]
+	path = awesome/spanish-nlp
+	url = https://githubfast.com/dav009/awesome-spanish-nlp
+[submodule "awesome/nlp-with-ruby"]
+	path = awesome/nlp-with-ruby
+	url = https://githubfast.com/arbox/nlp-with-ruby
+[submodule "awesome/qa"]
+	path = awesome/qa
+	url = https://githubfast.com/seriousran/awesome-qa
+[submodule "awesome/nlg"]
+	path = awesome/nlg
+	url = https://githubfast.com/accelerated-text/awesome-nlg
+[submodule "awesome/linguistics"]
+	path = awesome/linguistics
+	url = https://githubfast.com/theimpossibleastronaut/awesome-linguistics
+[submodule "awesome/cryptography"]
+	path = awesome/cryptography
+	url = https://githubfast.com/sobolevn/awesome-cryptography
+[submodule "awesome/crypto-papers"]
+	path = awesome/crypto-papers
+	url = https://githubfast.com/pFarb/awesome-crypto-papers
+[submodule "awesome/computer-vision"]
+	path = awesome/computer-vision
+	url = https://githubfast.com/jbhuang0604/awesome-computer-vision
+[submodule "awesome/python-data-science"]
+	path = awesome/python-data-science
+	url = https://githubfast.com/krzjoa/awesome-python-data-science
+[submodule "awesome/python-typing"]
+	path = awesome/python-typing
+	url = https://githubfast.com/typeddjango/awesome-python-typing
+[submodule "awesome/micropython"]
+	path = awesome/micropython
+	url = https://githubfast.com/mcauser/awesome-micropython
+[submodule "awesome/rust"]
+	path = awesome/rust
+	url = https://githubfast.com/rust-unofficial/awesome-rust
+[submodule "awesome/haskell"]
+	path = awesome/haskell
+	url = https://githubfast.com/krispo/awesome-haskell
+[submodule "awesome/purescript"]
+	path = awesome/purescript
+	url = https://githubfast.com/passy/awesome-purescript
+[submodule "awesome/erlang"]
+	path = awesome/erlang
+	url = https://githubfast.com/drobakowski/awesome-erlang
+[submodule "awesome/julia.jl"]
+	path = awesome/julia.jl
+	url = https://githubfast.com/svaksha/Julia.jl
+[submodule "awesome/lua"]
+	path = awesome/lua
+	url = https://githubfast.com/LewisJEllis/awesome-lua
+[submodule "awesome/c"]
+	path = awesome/c
+	url = https://githubfast.com/inputsh/awesome-c
+[submodule "awesome/cpp"]
+	path = awesome/cpp
+	url = https://githubfast.com/fffaraz/awesome-cpp
+[submodule "awesome/deep-learning"]
+	path = awesome/deep-learning
+	url = https://githubfast.com/ChristosChristofidis/awesome-deep-learning
+[submodule "awesome/tensorflow"]
+	path = awesome/tensorflow
+	url = https://githubfast.com/jtoy/awesome-tensorflow
+[submodule "awesome/tensorflow-js"]
+	path = awesome/tensorflow-js
+	url = https://githubfast.com/aaronhma/awesome-tensorflow-js
+[submodule "awesome/tensorflow-lite"]
+	path = awesome/tensorflow-lite
+	url = https://githubfast.com/margaretmz/awesome-tensorflow-lite
+[submodule "awesome/deep-learning-papers"]
+	path = awesome/deep-learning-papers
+	url = https://githubfast.com/terryum/awesome-deep-learning-papers
+[submodule "awesome/deep-learning-resources"]
+	path = awesome/deep-learning-resources
+	url = https://githubfast.com/guillaume-chevalier/awesome-deep-learning-resources
+[submodule "awesome/deep-vision"]
+	path = awesome/deep-vision
+	url = https://githubfast.com/kjw0612/awesome-deep-vision
+[submodule "awesome/computer-science"]
+	path = awesome/computer-science
+	url = https://githubfast.com/ossu/computer-science
+[submodule "awesome/functional-programming"]
+	path = awesome/functional-programming
+	url = https://githubfast.com/lucasviola/awesome-functional-programming
+[submodule "awesome/msr"]
+	path = awesome/msr
+	url = https://githubfast.com/dspinellis/awesome-msr
+[submodule "awesome/static-analysis"]
+	path = awesome/static-analysis
+	url = https://githubfast.com/analysis-tools-dev/static-analysis
+[submodule "awesome/information-retrieval"]
+	path = awesome/information-retrieval
+	url = https://githubfast.com/harpribot/awesome-information-retrieval
+[submodule "awesome/quantum-computing"]
+	path = awesome/quantum-computing
+	url = https://githubfast.com/desireevl/awesome-quantum-computing
+[submodule "awesome/theoretical-computer-science"]
+	path = awesome/theoretical-computer-science
+	url = https://githubfast.com/mostafatouny/awesome-theoretical-computer-science
+[submodule "awesome/conversational-ai"]
+	path = awesome/conversational-ai
+	url = https://githubfast.com/jyguyomarch/awesome-conversational-ai
+[submodule "awesome/generative-ai"]
+	path = awesome/generative-ai
+	url = https://githubfast.com/steven2358/awesome-generative-ai
+[submodule "awesome/bigdata"]
+	path = awesome/bigdata
+	url = https://githubfast.com/0xnr/awesome-bigdata
+[submodule "awesome/public-datasets"]
+	path = awesome/public-datasets
+	url = https://githubfast.com/awesomedata/awesome-public-datasets
+[submodule "awesome/hadoop"]
+	path = awesome/hadoop
+	url = https://githubfast.com/youngwookim/awesome-hadoop
+[submodule "awesome/data-engineering"]
+	path = awesome/data-engineering
+	url = https://githubfast.com/igorbarinov/awesome-data-engineering
+[submodule "awesome/streaming"]
+	path = awesome/streaming
+	url = https://githubfast.com/manuzhang/awesome-streaming
+[submodule "awesome/spark"]
+	path = awesome/spark
+	url = https://githubfast.com/awesome-spark/awesome-spark
+[submodule "awesome/qlik"]
+	path = awesome/qlik
+	url = https://githubfast.com/ambster-public/awesome-qlik
+[submodule "awesome/splunk"]
+	path = awesome/splunk
+	url = https://githubfast.com/sduff/awesome-splunk
+[submodule "awesome/papers-we-love"]
+	path = awesome/papers-we-love
+	url = https://githubfast.com/papers-we-love/papers-we-love
+[submodule "awesome/talks"]
+	path = awesome/talks
+	url = https://githubfast.com/JanVanRyswyck/awesome-talks
+[submodule "awesome/algorithms"]
+	path = awesome/algorithms
+	url = https://githubfast.com/tayllan/awesome-algorithms
+[submodule "awesome/algorithms-education"]
+	path = awesome/algorithms-education
+	url = https://githubfast.com/gaerae/awesome-algorithms-education
+[submodule "awesome/algovis"]
+	path = awesome/algovis
+	url = https://githubfast.com/enjalot/algovis
+[submodule "awesome/artificial-intelligence"]
+	path = awesome/artificial-intelligence
+	url = https://githubfast.com/owainlewis/awesome-artificial-intelligence
+[submodule "awesome/search-engine-optimization"]
+	path = awesome/search-engine-optimization
+	url = https://githubfast.com/marcobiedermann/search-engine-optimization
+[submodule "awesome/competitive-programming"]
+	path = awesome/competitive-programming
+	url = https://githubfast.com/lnishan/awesome-competitive-programming
+[submodule "awesome/math"]
+	path = awesome/math
+	url = https://githubfast.com/rossant/awesome-math
+[submodule "awesome/recursion-schemes"]
+	path = awesome/recursion-schemes
+	url = https://githubfast.com/passy/awesome-recursion-schemes
+[submodule "awesome/audit-algorithms"]
+	path = awesome/audit-algorithms
+	url = https://githubfast.com/erwanlemerrer/awesome-audit-algorithms
+[submodule "awesome/free-programming-books"]
+	path = awesome/free-programming-books
+	url = https://githubfast.com/EbookFoundation/free-programming-books
+[submodule "awesome/gobooks"]
+	path = awesome/gobooks
+	url = https://githubfast.com/dariubs/GoBooks
+[submodule "awesome/rbooks"]
+	path = awesome/rbooks
+	url = https://githubfast.com/RomanTsegelskyi/rbooks
+[submodule "awesome/mind-expanding-books"]
+	path = awesome/mind-expanding-books
+	url = https://githubfast.com/hackerkid/Mind-Expanding-Books
+[submodule "awesome/book-authoring"]
+	path = awesome/book-authoring
+	url = https://githubfast.com/TalAter/awesome-book-authoring
+[submodule "awesome/elixirbooks"]
+	path = awesome/elixirbooks
+	url = https://githubfast.com/sger/ElixirBooks
+[submodule "awesome/sublime-bookmarks"]
+	path = awesome/sublime-bookmarks
+	url = https://githubfast.com/dreikanter/sublime-bookmarks
+[submodule "awesome/vim-galore"]
+	path = awesome/vim-galore
+	url = https://githubfast.com/mhinz/vim-galore
+[submodule "awesome/neovim"]
+	path = awesome/neovim
+	url = https://githubfast.com/rockerBOO/awesome-neovim
+[submodule "awesome/emacs"]
+	path = awesome/emacs
+	url = https://githubfast.com/emacs-tw/awesome-emacs
+[submodule "awesome/atom"]
+	path = awesome/atom
+	url = https://githubfast.com/mehcode/awesome-atom
+[submodule "awesome/vscode"]
+	path = awesome/vscode
+	url = https://githubfast.com/viatsko/awesome-vscode
+[submodule "awesome/magictools"]
+	path = awesome/magictools
+	url = https://githubfast.com/ellisonleao/magictools
+[submodule "awesome/gametalks"]
+	path = awesome/gametalks
+	url = https://githubfast.com/hzoo/awesome-gametalks
+[submodule "awesome/godot"]
+	path = awesome/godot
+	url = https://githubfast.com/godotengine/awesome-godot
+[submodule "awesome/open-source-games"]
+	path = awesome/open-source-games
+	url = https://githubfast.com/michelpereira/awesome-open-source-games
+[submodule "awesome/unity"]
+	path = awesome/unity
+	url = https://githubfast.com/RyanNielson/awesome-unity
+[submodule "awesome/chess"]
+	path = awesome/chess
+	url = https://githubfast.com/hkirat/awesome-chess
+[submodule "awesome/love2d"]
+	path = awesome/love2d
+	url = https://githubfast.com/love2d-community/awesome-love2d
+[submodule "awesome/pico-8"]
+	path = awesome/pico-8
+	url = https://githubfast.com/pico-8/awesome-PICO-8
+[submodule "awesome/gbdev"]
+	path = awesome/gbdev
+	url = https://githubfast.com/gbdev/awesome-gbdev
+[submodule "awesome/construct"]
+	path = awesome/construct
+	url = https://githubfast.com/ConstructCommunity/awesome-construct
+[submodule "awesome/gideros"]
+	path = awesome/gideros
+	url = https://githubfast.com/stetso/awesome-gideros
+[submodule "awesome/minecraft"]
+	path = awesome/minecraft
+	url = https://githubfast.com/bs-community/awesome-minecraft
+[submodule "awesome/computercraft"]
+	path = awesome/computercraft
+	url = https://githubfast.com/tomodachi94/awesome-computercraft
+[submodule "awesome/game-datasets"]
+	path = awesome/game-datasets
+	url = https://githubfast.com/leomaurodesenv/game-datasets
+[submodule "awesome/haxe-gamedev"]
+	path = awesome/haxe-gamedev
+	url = https://githubfast.com/Dvergar/awesome-haxe-gamedev
+[submodule "awesome/libgdx"]
+	path = awesome/libgdx
+	url = https://githubfast.com/rafaskb/awesome-libgdx
+[submodule "awesome/playcanvas"]
+	path = awesome/playcanvas
+	url = https://githubfast.com/playcanvas/awesome-playcanvas
+[submodule "awesome/game-remakes"]
+	path = awesome/game-remakes
+	url = https://githubfast.com/radek-sprta/awesome-game-remakes
+[submodule "awesome/flame"]
+	path = awesome/flame
+	url = https://githubfast.com/flame-engine/awesome-flame
+[submodule "awesome/discord-communities"]
+	path = awesome/discord-communities
+	url = https://githubfast.com/mhxion/awesome-discord-communities
+[submodule "awesome/chip-8"]
+	path = awesome/chip-8
+	url = https://githubfast.com/tobiasvl/awesome-chip-8
+[submodule "awesome/games-of-coding"]
+	path = awesome/games-of-coding
+	url = https://githubfast.com/michelpereira/awesome-games-of-coding
+[submodule "awesome/esports"]
+	path = awesome/esports
+	url = https://githubfast.com/strift/awesome-esports
+[submodule "awesome/learn-gamedev"]
+	path = awesome/learn-gamedev
+	url = https://githubfast.com/notpresident35/awesome-learn-gamedev
+[submodule "awesome/game-engine-dev"]
+	path = awesome/game-engine-dev
+	url = https://githubfast.com/stevinz/awesome-game-engine-dev
+[submodule "awesome/gamemaker"]
+	path = awesome/gamemaker
+	url = https://githubfast.com/bytecauldron/awesome-gamemaker
+[submodule "awesome/game-production"]
+	path = awesome/game-production
+	url = https://githubfast.com/vhladiienko/awesome-game-production
+[submodule "awesome/quick-look-plugins"]
+	path = awesome/quick-look-plugins
+	url = https://githubfast.com/sindresorhus/quick-look-plugins
+[submodule "awesome/devenv"]
+	path = awesome/devenv
+	url = https://githubfast.com/jondot/awesome-devenv
+[submodule "awesome/dotfiles"]
+	path = awesome/dotfiles
+	url = https://githubfast.com/webpro/awesome-dotfiles
+[submodule "awesome/shell"]
+	path = awesome/shell
+	url = https://githubfast.com/alebcay/awesome-shell
+[submodule "awesome/awsm.fish"]
+	path = awesome/awsm.fish
+	url = https://githubfast.com/jorgebucaran/awsm.fish
+[submodule "awesome/cli-apps"]
+	path = awesome/cli-apps
+	url = https://githubfast.com/agarrharr/awesome-cli-apps
+[submodule "awesome/zsh-plugins"]
+	path = awesome/zsh-plugins
+	url = https://githubfast.com/unixorn/awesome-zsh-plugins
+[submodule "awesome/github"]
+	path = awesome/github
+	url = https://githubfast.com/phillipadsmith/awesome-github
+[submodule "awesome/browser-extensions-for-github"]
+	path = awesome/browser-extensions-for-github
+	url = https://githubfast.com/stefanbuck/awesome-browser-extensions-for-github
+[submodule "awesome/github-cheat-sheet"]
+	path = awesome/github-cheat-sheet
+	url = https://githubfast.com/tiimgreen/github-cheat-sheet
+[submodule "awesome/pinned-gists"]
+	path = awesome/pinned-gists
+	url = https://githubfast.com/matchai/awesome-pinned-gists
+[submodule "awesome/git-cheat-sheet"]
+	path = awesome/git-cheat-sheet
+	url = https://githubfast.com/arslanbilal/git-cheat-sheet
+[submodule "awesome/tips"]
+	path = awesome/tips
+	url = https://githubfast.com/git-tips/tips
+[submodule "awesome/git-addons"]
+	path = awesome/git-addons
+	url = https://githubfast.com/stevemao/awesome-git-addons
+[submodule "awesome/git-hooks"]
+	path = awesome/git-hooks
+	url = https://githubfast.com/compscilauren/awesome-git-hooks
+[submodule "awesome/ssh"]
+	path = awesome/ssh
+	url = https://githubfast.com/moul/awesome-ssh
+[submodule "awesome/foss-for-dev"]
+	path = awesome/foss-for-dev
+	url = https://githubfast.com/tvvocold/FOSS-for-Dev
+[submodule "awesome/hyper"]
+	path = awesome/hyper
+	url = https://githubfast.com/bnb/awesome-hyper
+[submodule "awesome/powershell"]
+	path = awesome/powershell
+	url = https://githubfast.com/janikvonrotz/awesome-powershell
+[submodule "awesome/alfred-workflows"]
+	path = awesome/alfred-workflows
+	url = https://githubfast.com/alfred-workflows/awesome-alfred-workflows
+[submodule "awesome/terminals-are-sexy"]
+	path = awesome/terminals-are-sexy
+	url = https://githubfast.com/k4m4/terminals-are-sexy
+[submodule "awesome/actions"]
+	path = awesome/actions
+	url = https://githubfast.com/sdras/awesome-actions
+[submodule "awesome/scifi"]
+	path = awesome/scifi
+	url = https://githubfast.com/sindresorhus/awesome-scifi
+[submodule "awesome/fantasy"]
+	path = awesome/fantasy
+	url = https://githubfast.com/RichardLitt/awesome-fantasy
+[submodule "awesome/geek-podcasts"]
+	path = awesome/geek-podcasts
+	url = https://githubfast.com/ayr-ton/awesome-geek-podcasts
+[submodule "awesome/newsletters"]
+	path = awesome/newsletters
+	url = https://githubfast.com/zudochkin/awesome-newsletters
+[submodule "awesome/it-quotes"]
+	path = awesome/it-quotes
+	url = https://githubfast.com/victorlaerte/awesome-it-quotes
+[submodule "awesome/db"]
+	path = awesome/db
+	url = https://githubfast.com/numetriclabz/awesome-db
+[submodule "awesome/mysql"]
+	path = awesome/mysql
+	url = https://githubfast.com/shlomi-noach/awesome-mysql
+[submodule "awesome/sqlalchemy"]
+	path = awesome/sqlalchemy
+	url = https://githubfast.com/dahlia/awesome-sqlalchemy
+[submodule "awesome/influxdb"]
+	path = awesome/influxdb
+	url = https://githubfast.com/mark-rushakoff/awesome-influxdb
+[submodule "awesome/neo4j"]
+	path = awesome/neo4j
+	url = https://githubfast.com/neueda/awesome-neo4j
+[submodule "awesome/mongodb"]
+	path = awesome/mongodb
+	url = https://githubfast.com/ramnes/awesome-mongodb
+[submodule "awesome/rethinkdb"]
+	path = awesome/rethinkdb
+	url = https://githubfast.com/d3viant0ne/awesome-rethinkdb
+[submodule "awesome/tinkerpop"]
+	path = awesome/tinkerpop
+	url = https://githubfast.com/mohataher/awesome-tinkerpop
+[submodule "awesome/postgres"]
+	path = awesome/postgres
+	url = https://githubfast.com/dhamaniasad/awesome-postgres
+[submodule "awesome/couchdb"]
+	path = awesome/couchdb
+	url = https://githubfast.com/quangv/awesome-couchdb
+[submodule "awesome/hbase"]
+	path = awesome/hbase
+	url = https://githubfast.com/rayokota/awesome-hbase
+[submodule "awesome/nosql-guides"]
+	path = awesome/nosql-guides
+	url = https://githubfast.com/erictleung/awesome-nosql-guides
+[submodule "awesome/db-tools"]
+	path = awesome/db-tools
+	url = https://githubfast.com/mgramin/awesome-db-tools
+[submodule "awesome/typedb-awesome"]
+	path = awesome/typedb-awesome
+	url = https://githubfast.com/vaticle/typedb-awesome
+[submodule "awesome/cassandra"]
+	path = awesome/cassandra
+	url = https://githubfast.com/Anant/awesome-cassandra
+[submodule "awesome/tdengine"]
+	path = awesome/tdengine
+	url = https://githubfast.com/taosdata/awesome-tdengine
+[submodule "awesome/supabase"]
+	path = awesome/supabase
+	url = https://githubfast.com/lyqht/awesome-supabase
+[submodule "awesome/creative-commons-media"]
+	path = awesome/creative-commons-media
+	url = https://githubfast.com/shime/creative-commons-media
+[submodule "awesome/fonts"]
+	path = awesome/fonts
+	url = https://githubfast.com/brabadu/awesome-fonts
+[submodule "awesome/codeface"]
+	path = awesome/codeface
+	url = https://githubfast.com/chrissimpkins/codeface
+[submodule "awesome/stock-resources"]
+	path = awesome/stock-resources
+	url = https://githubfast.com/neutraltone/awesome-stock-resources
+[submodule "awesome/gif"]
+	path = awesome/gif
+	url = https://githubfast.com/davisonio/awesome-gif
+[submodule "awesome/music"]
+	path = awesome/music
+	url = https://githubfast.com/ciconia/awesome-music
+[submodule "awesome/opensource-documents"]
+	path = awesome/opensource-documents
+	url = https://githubfast.com/44bits/awesome-opensource-documents
+[submodule "awesome/audio-visualization"]
+	path = awesome/audio-visualization
+	url = https://githubfast.com/willianjusten/awesome-audio-visualization
+[submodule "awesome/broadcasting"]
+	path = awesome/broadcasting
+	url = https://githubfast.com/ebu/awesome-broadcasting
+[submodule "awesome/pixel-art"]
+	path = awesome/pixel-art
+	url = https://githubfast.com/Siilwyn/awesome-pixel-art
+[submodule "awesome/ffmpeg"]
+	path = awesome/ffmpeg
+	url = https://githubfast.com/transitive-bullshit/awesome-ffmpeg
+[submodule "awesome/icons"]
+	path = awesome/icons
+	url = https://githubfast.com/notlmn/awesome-icons
+[submodule "awesome/audiovisual"]
+	path = awesome/audiovisual
+	url = https://githubfast.com/stingalleman/awesome-audiovisual
+[submodule "awesome/vlc"]
+	path = awesome/vlc
+	url = https://githubfast.com/mfkl/awesome-vlc
+[submodule "awesome/workshopper"]
+	path = awesome/workshopper
+	url = https://githubfast.com/therebelrobot/awesome-workshopper
+[submodule "awesome/learn-to-program"]
+	path = awesome/learn-to-program
+	url = https://githubfast.com/karlhorky/learn-to-program
+[submodule "awesome/speaking"]
+	path = awesome/speaking
+	url = https://githubfast.com/matteofigus/awesome-speaking
+[submodule "awesome/tech-videos"]
+	path = awesome/tech-videos
+	url = https://githubfast.com/lucasviola/awesome-tech-videos
+[submodule "awesome/dive-into-machine-learning"]
+	path = awesome/dive-into-machine-learning
+	url = https://githubfast.com/hangtwenty/dive-into-machine-learning
+[submodule "awesome/computer-history"]
+	path = awesome/computer-history
+	url = https://githubfast.com/watson/awesome-computer-history
+[submodule "awesome/programming-for-kids"]
+	path = awesome/programming-for-kids
+	url = https://githubfast.com/HollyAdele/awesome-programming-for-kids
+[submodule "awesome/educational-games"]
+	path = awesome/educational-games
+	url = https://githubfast.com/yrgo/awesome-educational-games
+[submodule "awesome/javascript-learning"]
+	path = awesome/javascript-learning
+	url = https://githubfast.com/micromata/awesome-javascript-learning
+[submodule "awesome/css-learning"]
+	path = awesome/css-learning
+	url = https://githubfast.com/micromata/awesome-css-learning
+[submodule "awesome/product-management"]
+	path = awesome/product-management
+	url = https://githubfast.com/dend/awesome-product-management
+[submodule "awesome/roadmaps"]
+	path = awesome/roadmaps
+	url = https://githubfast.com/liuchong/awesome-roadmaps
+[submodule "awesome/youtubers"]
+	path = awesome/youtubers
+	url = https://githubfast.com/JoseDeFreitas/awesome-youtubers
+[submodule "awesome/hackathon"]
+	path = awesome/hackathon
+	url = https://githubfast.com/dribdat/awesome-hackathon
+[submodule "awesome/certificates"]
+	path = awesome/certificates
+	url = https://githubfast.com/PanXProject/awesome-certificates
+[submodule "awesome/appsec"]
+	path = awesome/appsec
+	url = https://githubfast.com/paragonie/awesome-appsec
+[submodule "awesome/security"]
+	path = awesome/security
+	url = https://githubfast.com/sbilly/awesome-security
+[submodule "awesome/ctf"]
+	path = awesome/ctf
+	url = https://githubfast.com/apsdehal/awesome-ctf
+[submodule "awesome/cyber-security-university"]
+	path = awesome/cyber-security-university
+	url = https://githubfast.com/brootware/awesome-cyber-security-university
+[submodule "awesome/malware-analysis"]
+	path = awesome/malware-analysis
+	url = https://githubfast.com/rshipp/awesome-malware-analysis
+[submodule "awesome/android-security-awesome"]
+	path = awesome/android-security-awesome
+	url = https://githubfast.com/ashishb/android-security-awesome
+[submodule "awesome/hacking"]
+	path = awesome/hacking
+	url = https://githubfast.com/carpedm20/awesome-hacking
+[submodule "awesome/hacking-locations"]
+	path = awesome/hacking-locations
+	url = https://githubfast.com/daviddias/awesome-hacking-locations
+[submodule "awesome/honeypots"]
+	path = awesome/honeypots
+	url = https://githubfast.com/paralax/awesome-honeypots
+[submodule "awesome/incident-response"]
+	path = awesome/incident-response
+	url = https://githubfast.com/meirwah/awesome-incident-response
+[submodule "awesome/open-hardware"]
+	path = awesome/open-hardware
+	url = https://githubfast.com/delftopenhardware/awesome-open-hardware
+[submodule "awesome/adsb"]
+	path = awesome/adsb
+	url = https://githubfast.com/rickstaa/awesome-adsb
+[submodule "awesome/flying-fpv"]
+	path = awesome/flying-fpv
+	url = https://githubfast.com/Matthias84/awesome-flying-fpv
+[submodule "awesome/open-company"]
+	path = awesome/open-company
+	url = https://githubfast.com/opencompany/awesome-open-company
+[submodule "awesome/placestopostyourstartup"]
+	path = awesome/placestopostyourstartup
+	url = https://githubfast.com/mmccaff/PlacesToPostYourStartup
+[submodule "awesome/okr"]
+	path = awesome/okr
+	url = https://githubfast.com/domenicosolazzo/awesome-okr
+[submodule "awesome/leading-and-managing"]
+	path = awesome/leading-and-managing
+	url = https://githubfast.com/LappleApple/awesome-leading-and-managing
+[submodule "awesome/indie"]
+	path = awesome/indie
+	url = https://githubfast.com/mezod/awesome-indie
+[submodule "awesome/toolsofthetrade"]
+	path = awesome/toolsofthetrade
+	url = https://githubfast.com/cjbarber/ToolsOfTheTrade
+[submodule "awesome/clean-tech"]
+	path = awesome/clean-tech
+	url = https://githubfast.com/nglgzz/awesome-clean-tech
+[submodule "awesome/wardley-maps"]
+	path = awesome/wardley-maps
+	url = https://githubfast.com/wardley-maps-community/awesome-wardley-maps
+[submodule "awesome/social-enterprise"]
+	path = awesome/social-enterprise
+	url = https://githubfast.com/RayBB/awesome-social-enterprise
+[submodule "awesome/engineering-team-management"]
+	path = awesome/engineering-team-management
+	url = https://githubfast.com/kdeldycke/awesome-engineering-team-management
+[submodule "awesome/developer-first"]
+	path = awesome/developer-first
+	url = https://githubfast.com/agamm/awesome-developer-first
+[submodule "awesome/billing"]
+	path = awesome/billing
+	url = https://githubfast.com/kdeldycke/awesome-billing
+[submodule "awesome/engineering-strategy"]
+	path = awesome/engineering-strategy
+	url = https://githubfast.com/aleixmorgadas/awesome-engineering-strategy
+[submodule "awesome/slack"]
+	path = awesome/slack
+	url = https://githubfast.com/matiassingers/awesome-slack
+[submodule "awesome/remote-job"]
+	path = awesome/remote-job
+	url = https://githubfast.com/lukasz-madon/awesome-remote-job
+[submodule "awesome/productivity"]
+	path = awesome/productivity
+	url = https://githubfast.com/jyguyomarch/awesome-productivity
+[submodule "awesome/job-boards"]
+	path = awesome/job-boards
+	url = https://githubfast.com/tramcar/awesome-job-boards
+[submodule "awesome/interview-questions"]
+	path = awesome/interview-questions
+	url = https://githubfast.com/DopplerHQ/awesome-interview-questions
+[submodule "awesome/code-review"]
+	path = awesome/code-review
+	url = https://githubfast.com/joho/awesome-code-review
+[submodule "awesome/creative-technology"]
+	path = awesome/creative-technology
+	url = https://githubfast.com/j0hnm4r5/awesome-creative-technology
+[submodule "awesome/internships"]
+	path = awesome/internships
+	url = https://githubfast.com/lodthe/awesome-internships
+[submodule "awesome/sdn"]
+	path = awesome/sdn
+	url = https://githubfast.com/sdnds-tw/awesome-sdn
+[submodule "awesome/network-analysis"]
+	path = awesome/network-analysis
+	url = https://githubfast.com/briatte/awesome-network-analysis
+[submodule "awesome/pcaptools"]
+	path = awesome/pcaptools
+	url = https://githubfast.com/caesar0301/awesome-pcaptools
+[submodule "awesome/rtc"]
+	path = awesome/rtc
+	url = https://githubfast.com/rtckit/awesome-rtc
+[submodule "awesome/snmp"]
+	path = awesome/snmp
+	url = https://githubfast.com/eozer/awesome-snmp
+[submodule "awesome/scapy"]
+	path = awesome/scapy
+	url = https://githubfast.com/secdev/awesome-scapy
+[submodule "awesome/bitcoin"]
+	path = awesome/bitcoin
+	url = https://githubfast.com/igorbarinov/awesome-bitcoin
+[submodule "awesome/ripple"]
+	path = awesome/ripple
+	url = https://githubfast.com/vhpoet/awesome-ripple
+[submodule "awesome/non-financial-blockchain"]
+	path = awesome/non-financial-blockchain
+	url = https://githubfast.com/machinomy/awesome-non-financial-blockchain
+[submodule "awesome/mastodon"]
+	path = awesome/mastodon
+	url = https://githubfast.com/tleb/awesome-mastodon
+[submodule "awesome/ethereum"]
+	path = awesome/ethereum
+	url = https://githubfast.com/ttumiel/Awesome-Ethereum
+[submodule "awesome/blockchain-ai"]
+	path = awesome/blockchain-ai
+	url = https://githubfast.com/steven2358/awesome-blockchain-ai
+[submodule "awesome/eosio"]
+	path = awesome/eosio
+	url = https://githubfast.com/DanailMinchev/awesome-eosio
+[submodule "awesome/corda"]
+	path = awesome/corda
+	url = https://githubfast.com/chainstack/awesome-corda
+[submodule "awesome/waves"]
+	path = awesome/waves
+	url = https://githubfast.com/msmolyakov/awesome-waves
+[submodule "awesome/substrate"]
+	path = awesome/substrate
+	url = https://githubfast.com/substrate-developer-hub/awesome-substrate
+[submodule "awesome/golem"]
+	path = awesome/golem
+	url = https://githubfast.com/golemfactory/awesome-golem
+[submodule "awesome/stacks-chain"]
+	path = awesome/stacks-chain
+	url = https://githubfast.com/friedger/awesome-stacks-chain
+[submodule "awesome/algorand"]
+	path = awesome/algorand
+	url = https://githubfast.com/aorumbayev/awesome-algorand
+[submodule "awesome/zeronet"]
+	path = awesome/zeronet
+	url = https://githubfast.com/zolagonano/awesome-zeronet
+[submodule "awesome/cosmos"]
+	path = awesome/cosmos
+	url = https://githubfast.com/cosmos/awesome-cosmos
+[submodule "awesome/bioie"]
+	path = awesome/bioie
+	url = https://githubfast.com/caufieldjh/awesome-bioie
+[submodule "awesome/computational-neuroscience"]
+	path = awesome/computational-neuroscience
+	url = https://githubfast.com/eselkin/awesome-computational-neuroscience
+[submodule "awesome/diversity"]
+	path = awesome/diversity
+	url = https://githubfast.com/folkswhocode/awesome-diversity
+[submodule "awesome/digital-history"]
+	path = awesome/digital-history
+	url = https://githubfast.com/maehr/awesome-digital-history
+[submodule "awesome/empathy-in-engineering"]
+	path = awesome/empathy-in-engineering
+	url = https://githubfast.com/KimberlyMunoz/empathy-in-engineering
+[submodule "awesome/healthcare"]
+	path = awesome/healthcare
+	url = https://githubfast.com/kakoni/awesome-healthcare
+[submodule "awesome/humane-tech"]
+	path = awesome/humane-tech
+	url = https://githubfast.com/humanetech-community/awesome-humane-tech
+[submodule "awesome/mental-health"]
+	path = awesome/mental-health
+	url = https://githubfast.com/dreamingechoes/awesome-mental-health
+[submodule "awesome/neuroscience"]
+	path = awesome/neuroscience
+	url = https://githubfast.com/analyticalmonk/awesome-neuroscience
+[submodule "awesome/radio"]
+	path = awesome/radio
+	url = https://githubfast.com/kyleterry/awesome-radio
+[submodule "awesome/sindresorhus"]
+	path = awesome/sindresorhus
+	url = https://githubfast.com/sindresorhus/awesome
+[submodule "awesome/analytics"]
+	path = awesome/analytics
+	url = https://githubfast.com/0xnr/awesome-analytics
+[submodule "awesome/rest"]
+	path = awesome/rest
+	url = https://githubfast.com/marmelab/awesome-rest
+[submodule "awesome/ciandcd"]
+	path = awesome/ciandcd
+	url = https://githubfast.com/cicdops/awesome-ciandcd
+[submodule "awesome/services-engineering"]
+	path = awesome/services-engineering
+	url = https://githubfast.com/mmcgrana/services-engineering
+[submodule "awesome/free-for-dev"]
+	path = awesome/free-for-dev
+	url = https://githubfast.com/ripienaar/free-for-dev
+[submodule "awesome/answers"]
+	path = awesome/answers
+	url = https://githubfast.com/cyberglot/awesome-answers
+[submodule "awesome/sketch"]
+	path = awesome/sketch
+	url = https://githubfast.com/diessica/awesome-sketch
+[submodule "awesome/projects-boilerplates"]
+	path = awesome/projects-boilerplates
+	url = https://githubfast.com/melvin0008/awesome-projects-boilerplates
+[submodule "awesome/readme"]
+	path = awesome/readme
+	url = https://githubfast.com/matiassingers/awesome-readme
+[submodule "awesome/github-wiki"]
+	path = awesome/github-wiki
+	url = https://githubfast.com/MyHoneyBadger/awesome-github-wiki
+[submodule "awesome/guides"]
+	path = awesome/guides
+	url = https://githubfast.com/NARKOZ/guides
+[submodule "awesome/engineering-blogs"]
+	path = awesome/engineering-blogs
+	url = https://githubfast.com/kilimchoi/engineering-blogs
+[submodule "awesome/selfhosted"]
+	path = awesome/selfhosted
+	url = https://githubfast.com/awesome-selfhosted/awesome-selfhosted
+[submodule "awesome/foss-apps"]
+	path = awesome/foss-apps
+	url = https://githubfast.com/DataDaoDe/awesome-foss-apps
+[submodule "awesome/gulp"]
+	path = awesome/gulp
+	url = https://githubfast.com/alferov/awesome-gulp
+[submodule "awesome/amas"]
+	path = awesome/amas
+	url = https://githubfast.com/sindresorhus/amas
+[submodule "awesome/ama-answers"]
+	path = awesome/ama-answers
+	url = https://githubfast.com/stoeffel/awesome-ama-answers
+[submodule "awesome/opensourcephotography"]
+	path = awesome/opensourcephotography
+	url = https://githubfast.com/ibaaj/awesome-OpenSourcePhotography
+[submodule "awesome/opengl"]
+	path = awesome/opengl
+	url = https://githubfast.com/eug/awesome-opengl
+[submodule "awesome/graphql"]
+	path = awesome/graphql
+	url = https://githubfast.com/chentsulin/awesome-graphql
+[submodule "awesome/urban-and-regional-planning-resources"]
+	path = awesome/urban-and-regional-planning-resources
+	url = https://githubfast.com/APA-Technology-Division/urban-and-regional-planning-resources
+[submodule "awesome/transit"]
+	path = awesome/transit
+	url = https://githubfast.com/CUTR-at-USF/awesome-transit
+[submodule "awesome/research"]
+	path = awesome/research
+	url = https://githubfast.com/emptymalei/awesome-research
+[submodule "awesome/dataviz"]
+	path = awesome/dataviz
+	url = https://githubfast.com/javierluraschi/awesome-dataviz
+[submodule "awesome/microservices"]
+	path = awesome/microservices
+	url = https://githubfast.com/mfornos/awesome-microservices
+[submodule "awesome/unicode"]
+	path = awesome/unicode
+	url = https://githubfast.com/jagracey/Awesome-Unicode
+[submodule "awesome/codepoints"]
+	path = awesome/codepoints
+	url = https://githubfast.com/Codepoints/awesome-codepoints
+[submodule "awesome/for-beginners"]
+	path = awesome/for-beginners
+	url = https://githubfast.com/MunGell/awesome-for-beginners
+[submodule "awesome/katas"]
+	path = awesome/katas
+	url = https://githubfast.com/gamontal/awesome-katas
+[submodule "awesome/toolsforactivism"]
+	path = awesome/toolsforactivism
+	url = https://githubfast.com/drewrwilson/toolsforactivism
+[submodule "awesome/citizen-science"]
+	path = awesome/citizen-science
+	url = https://githubfast.com/dylanrees/citizen-science
+[submodule "awesome/mqtt"]
+	path = awesome/mqtt
+	url = https://githubfast.com/hobbyquaker/awesome-mqtt
+[submodule "awesome/awesome4girls"]
+	path = awesome/awesome4girls
+	url = https://githubfast.com/cristianoliveira/awesome4girls
+[submodule "awesome/vorpal"]
+	path = awesome/vorpal
+	url = https://githubfast.com/vorpaljs/awesome-vorpal
+[submodule "awesome/vulkan"]
+	path = awesome/vulkan
+	url = https://githubfast.com/vinjn/awesome-vulkan
+[submodule "awesome/latex"]
+	path = awesome/latex
+	url = https://githubfast.com/egeerardyn/awesome-LaTeX
+[submodule "awesome/economics"]
+	path = awesome/economics
+	url = https://githubfast.com/antontarasenko/awesome-economics
+[submodule "awesome/funny-markov"]
+	path = awesome/funny-markov
+	url = https://githubfast.com/sublimino/awesome-funny-markov
+[submodule "awesome/bioinformatics"]
+	path = awesome/bioinformatics
+	url = https://githubfast.com/danielecook/Awesome-Bioinformatics
+[submodule "awesome/cheminformatics"]
+	path = awesome/cheminformatics
+	url = https://githubfast.com/hsiaoyi0504/awesome-cheminformatics
+[submodule "awesome/colorful"]
+	path = awesome/colorful
+	url = https://githubfast.com/Siddharth11/Colorful
+[submodule "awesome/steam"]
+	path = awesome/steam
+	url = https://githubfast.com/scholtzm/awesome-steam
+[submodule "awesome/bots"]
+	path = awesome/bots
+	url = https://githubfast.com/hackerkid/bots
+[submodule "awesome/sre"]
+	path = awesome/sre
+	url = https://githubfast.com/dastergon/awesome-sre
+[submodule "awesome/dtrace"]
+	path = awesome/dtrace
+	url = https://githubfast.com/xen0l/awesome-dtrace
+[submodule "awesome/userscripts"]
+	path = awesome/userscripts
+	url = https://githubfast.com/bvolpato/awesome-userscripts
+[submodule "awesome/pokemon"]
+	path = awesome/pokemon
+	url = https://githubfast.com/tobiasbueschel/awesome-pokemon
+[submodule "awesome/chatops"]
+	path = awesome/chatops
+	url = https://githubfast.com/exAspArk/awesome-chatops
+[submodule "awesome/falsehood"]
+	path = awesome/falsehood
+	url = https://githubfast.com/kdeldycke/awesome-falsehood
+[submodule "awesome/ddd"]
+	path = awesome/ddd
+	url = https://githubfast.com/heynickc/awesome-ddd
+[submodule "awesome/quantified-self"]
+	path = awesome/quantified-self
+	url = https://githubfast.com/woop/awesome-quantified-self
+[submodule "awesome/saltstack"]
+	path = awesome/saltstack
+	url = https://githubfast.com/hbokh/awesome-saltstack
+[submodule "awesome/web-design"]
+	path = awesome/web-design
+	url = https://githubfast.com/nicolesaidy/awesome-web-design
+[submodule "awesome/creative-coding"]
+	path = awesome/creative-coding
+	url = https://githubfast.com/terkelg/awesome-creative-coding
+[submodule "awesome/no-login-web-apps"]
+	path = awesome/no-login-web-apps
+	url = https://githubfast.com/aviaryan/awesome-no-login-web-apps
+[submodule "awesome/free-software"]
+	path = awesome/free-software
+	url = https://githubfast.com/johnjago/awesome-free-software
+[submodule "awesome/framer"]
+	path = awesome/framer
+	url = https://githubfast.com/podo/awesome-framer
+[submodule "awesome/markdown"]
+	path = awesome/markdown
+	url = https://githubfast.com/BubuAnabelas/awesome-markdown
+[submodule "awesome/dev-fun"]
+	path = awesome/dev-fun
+	url = https://githubfast.com/mislavcimpersak/awesome-dev-fun
+[submodule "awesome/magento2"]
+	path = awesome/magento2
+	url = https://githubfast.com/DavidLambauer/awesome-magento2
+[submodule "awesome/tikz"]
+	path = awesome/tikz
+	url = https://githubfast.com/xiaohanyu/awesome-tikz
+[submodule "awesome/ad-free"]
+	path = awesome/ad-free
+	url = https://githubfast.com/johnjago/awesome-ad-free
+[submodule "awesome/esolangs"]
+	path = awesome/esolangs
+	url = https://githubfast.com/angrykoala/awesome-esolangs
+[submodule "awesome/prometheus"]
+	path = awesome/prometheus
+	url = https://githubfast.com/roaldnefs/awesome-prometheus
+[submodule "awesome/homematic"]
+	path = awesome/homematic
+	url = https://githubfast.com/homematic-community/awesome-homematic
+[submodule "awesome/ledger"]
+	path = awesome/ledger
+	url = https://githubfast.com/sfischer13/awesome-ledger
+[submodule "awesome/web-monetization"]
+	path = awesome/web-monetization
+	url = https://githubfast.com/thomasbnt/awesome-web-monetization
+[submodule "awesome/uncopyright"]
+	path = awesome/uncopyright
+	url = https://githubfast.com/johnjago/awesome-uncopyright
+[submodule "awesome/coins"]
+	path = awesome/coins
+	url = https://githubfast.com/Zheaoli/awesome-coins
+[submodule "awesome/open-source-supporters"]
+	path = awesome/open-source-supporters
+	url = https://githubfast.com/zachflower/awesome-open-source-supporters
+[submodule "awesome/design-principles"]
+	path = awesome/design-principles
+	url = https://githubfast.com/robinstickel/awesome-design-principles
+[submodule "awesome/theravada"]
+	path = awesome/theravada
+	url = https://githubfast.com/johnjago/awesome-theravada
+[submodule "awesome/inspectit"]
+	path = awesome/inspectit
+	url = https://githubfast.com/inspectit-labs/awesome-inspectit
+[submodule "awesome/maintainers"]
+	path = awesome/maintainers
+	url = https://githubfast.com/nayafia/awesome-maintainers
+[submodule "awesome/calculators"]
+	path = awesome/calculators
+	url = https://githubfast.com/xxczaki/awesome-calculators
+[submodule "awesome/captcha"]
+	path = awesome/captcha
+	url = https://githubfast.com/ZYSzys/awesome-captcha
+[submodule "awesome/jupyter"]
+	path = awesome/jupyter
+	url = https://githubfast.com/markusschanta/awesome-jupyter
+[submodule "awesome/frc"]
+	path = awesome/frc
+	url = https://githubfast.com/andrewda/awesome-frc
+[submodule "awesome/speakers"]
+	path = awesome/speakers
+	url = https://githubfast.com/karlhorky/awesome-speakers
+[submodule "awesome/board-games"]
+	path = awesome/board-games
+	url = https://githubfast.com/edm00se/awesome-board-games
+[submodule "awesome/software-patreons"]
+	path = awesome/software-patreons
+	url = https://githubfast.com/uraimo/awesome-software-patreons
+[submodule "awesome/parasite"]
+	path = awesome/parasite
+	url = https://githubfast.com/ecohealthalliance/awesome-parasite
+[submodule "awesome/food"]
+	path = awesome/food
+	url = https://githubfast.com/jzarca01/awesome-food
+[submodule "awesome/bitcoin-payment-processors"]
+	path = awesome/bitcoin-payment-processors
+	url = https://githubfast.com/alexk111/awesome-bitcoin-payment-processors
+[submodule "awesome/scientific-computing"]
+	path = awesome/scientific-computing
+	url = https://githubfast.com/nschloe/awesome-scientific-computing
+[submodule "awesome/amazon-seller"]
+	path = awesome/amazon-seller
+	url = https://githubfast.com/ScaleLeap/awesome-amazon-seller
+[submodule "awesome/agriculture"]
+	path = awesome/agriculture
+	url = https://githubfast.com/brycejohnston/awesome-agriculture
+[submodule "awesome/product-design"]
+	path = awesome/product-design
+	url = https://githubfast.com/ttt30ga/awesome-product-design
+[submodule "awesome/prisma"]
+	path = awesome/prisma
+	url = https://githubfast.com/catalinmiron/awesome-prisma
+[submodule "awesome/software-architecture"]
+	path = awesome/software-architecture
+	url = https://githubfast.com/simskij/awesome-software-architecture
+[submodule "awesome/connectivity-info"]
+	path = awesome/connectivity-info
+	url = https://githubfast.com/stevesong/awesome-connectivity-info
+[submodule "awesome/stacks"]
+	path = awesome/stacks
+	url = https://githubfast.com/stackshareio/awesome-stacks
+[submodule "awesome/cytodata"]
+	path = awesome/cytodata
+	url = https://githubfast.com/cytodata/awesome-cytodata
+[submodule "awesome/irc"]
+	path = awesome/irc
+	url = https://githubfast.com/davisonio/awesome-irc
+[submodule "awesome/ads"]
+	path = awesome/ads
+	url = https://githubfast.com/cenoura/awesome-ads
+[submodule "awesome/earth"]
+	path = awesome/earth
+	url = https://githubfast.com/philsturgeon/awesome-earth
+[submodule "awesome/naming"]
+	path = awesome/naming
+	url = https://githubfast.com/gruhn/awesome-naming
+[submodule "awesome/web-archiving"]
+	path = awesome/web-archiving
+	url = https://githubfast.com/iipc/awesome-web-archiving
+[submodule "awesome/wp-cli"]
+	path = awesome/wp-cli
+	url = https://githubfast.com/schlessera/awesome-wp-cli
+[submodule "awesome/credit-modeling"]
+	path = awesome/credit-modeling
+	url = https://githubfast.com/mourarthur/awesome-credit-modeling
+[submodule "awesome/ansible"]
+	path = awesome/ansible
+	url = https://githubfast.com/ansible-community/awesome-ansible
+[submodule "awesome/biological-visualizations"]
+	path = awesome/biological-visualizations
+	url = https://githubfast.com/keller-mark/awesome-biological-visualizations
+[submodule "awesome/qr-code"]
+	path = awesome/qr-code
+	url = https://githubfast.com/make-github-pseudonymous-again/awesome-qr-code
+[submodule "awesome/veganism"]
+	path = awesome/veganism
+	url = https://githubfast.com/sdassow/awesome-veganism
+[submodule "awesome/translations"]
+	path = awesome/translations
+	url = https://githubfast.com/mbiesiad/awesome-translations
+[submodule "awesome/scriptable"]
+	path = awesome/scriptable
+	url = https://githubfast.com/dersvenhesse/awesome-scriptable
+[submodule "awesome/webxr"]
+	path = awesome/webxr
+	url = https://githubfast.com/msub2/awesome-webxr
+[submodule "awesome/computational-geometry"]
+	path = awesome/computational-geometry
+	url = https://githubfast.com/atkirtland/awesome-computational-geometry
+[submodule "awesome/openstreetmap"]
+	path = awesome/openstreetmap
+	url = https://githubfast.com/osmlab/awesome-openstreetmap
+[submodule "awesome/computational-biology"]
+	path = awesome/computational-biology
+	url = https://githubfast.com/inoue0426/awesome-computational-biology
+[submodule "awesome/read-the-docs"]
+	path = awesome/read-the-docs
+	url = https://githubfast.com/readthedocs-examples/awesome-read-the-docs
+[submodule "awesome/quarto"]
+	path = awesome/quarto
+	url = https://githubfast.com/mcanouil/awesome-quarto
+[submodule "awesome/chatgpt"]
+	path = awesome/chatgpt
+	url = https://githubfast.com/sindresorhus/awesome-chatgpt
+[submodule "awesome/whisper"]
+	path = awesome/whisper
+	url = https://githubfast.com/sindresorhus/awesome-whisper

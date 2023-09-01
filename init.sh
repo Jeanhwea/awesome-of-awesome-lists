@@ -24,6 +24,7 @@ parse_github_url() {
 add_one_submodule() {
     local name=$1
     local url=$2
+    local url=$(echo $url | sed 's/github.com/githubfast.com/')
     echo git submodule add $url awesome/$name
     git submodule add $url awesome/$name
 }
