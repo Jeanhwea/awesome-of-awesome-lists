@@ -49,9 +49,6 @@
 [submodule "awesome/mac"]
         path = awesome/mac
         url = https://github.com/jaywcjlove/awesome-mac
-[submodule "awesome/open-source-mac-os-apps"]
-        path = awesome/open-source-mac-os-apps
-        url = https://github.com/serhii-londar/open-source-mac-os-apps
 [submodule "awesome/watchos"]
         path = awesome/watchos
         url = https://github.com/yenchenlin/awesome-watchos
@@ -214,9 +211,6 @@
 [submodule "awesome/swift-education"]
         path = awesome/swift-education
         url = https://github.com/hsavit1/Awesome-Swift-Education
-[submodule "awesome/swift-playgrounds"]
-        path = awesome/swift-playgrounds
-        url = https://github.com/uraimo/Awesome-Swift-Playgrounds
 [submodule "awesome/python"]
         path = awesome/python
         url = https://github.com/vinta/awesome-python
