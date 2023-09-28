@@ -4,7 +4,7 @@ cur=$PWD
 i=0
 for repo in $(ls awesome); do
     i=$((i+1))
-    if [ $i -le 500 ]; then
+    if [ $i -le 600 ]; then
         continue
     fi
 
