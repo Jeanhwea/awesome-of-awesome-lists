@@ -11,4 +11,8 @@ for repo in $(ls awesome); do
     cmd="git pull origin $br"
     echo $cmd
     $cmd
+
+    if [ ! "$?" = "0" ]; then
+        exit 1
+    fi
 done
