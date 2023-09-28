@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+cur=$PWD
 for repo in $(ls awesome); do
-    git -C awesome/$repo pull
+    cd ${cur}/awesome/$repo
+    br=$(git branch)
+    git pull origin $br
 done
